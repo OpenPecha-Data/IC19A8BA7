@@ -1,5 +1,7 @@
 id: P007102
 initial_creation_type: ocr
+created_at: 31/03/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1KG5099
   title: མཆོད་ཡོན་ཉི་ཟླ་ཟུང་གི་ཁྲིམས་ཡིག
@@ -11,10 +13,3 @@ source_metadata:
       volume_number: 1
       total_pages: 114
       base_file: v001.txt
-ebook_metadata:
-  title: མཆོད་ཡོན་ཉི་ཟླ་ཟུང་གི་ཁྲིམས་ཡིག
-  author: ''
-  sku: P007102
-  cover: cover.jpg
-  layers:
-  - pagination
